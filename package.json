@@ -17,7 +17,7 @@
     "react-d3-speedometer": "^0.5.5",
     "react-dom": "^16.8.6",
     "react-gauge-chart": "^0.1.7",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "typescript": "^3.5.1",
     "uuid": "^3.3.2"
   },
